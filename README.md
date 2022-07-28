@@ -14,4 +14,6 @@ M - markup, sites are cached on cdns
 1. all static
    1. made static index.html
 2. adding javascript
-3. 
+   1. added simple javscript to append text to class using querySelector
+3. building with an ssg
+4. 
