@@ -21,5 +21,5 @@ M - markup, sites are cached on cdns
       2. it flexible templating
       3. dosent add what you dont ask for
       4. it is javascript
-4. fd
+4. repetitive learning thus me exit this repo.
 5. 
