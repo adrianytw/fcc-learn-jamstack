@@ -1,0 +1,24 @@
+{
+  "name": "fcc-learn-jamstack",
+  "version": "1.0.0",
+  "description": "me trying to understand jamstack...",
+  "main": "vibe.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianytw/fcc-learn-jamstack.git"
+  },
+  "keywords": [],
+  "author": "nairda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianytw/fcc-learn-jamstack/issues"
+  },
+  "homepage": "https://github.com/adrianytw/fcc-learn-jamstack#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  }
+}
