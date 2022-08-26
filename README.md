@@ -1,5 +1,5 @@
 # fcc-learn-jamstack
-me trying to understand jamstack...
+me trying to understand jamstack... (abandoned cuz repetitive)
 
 from [youtube video](https://www.youtube.com/watch?v=A_l0qrPUJds&ab_channel=freeCodeCamp.org)
 
